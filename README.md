@@ -4,4 +4,4 @@ Wall mount holder for a [Cold Steel Gladius Trainer](https://www.coldsteel.com/g
 
 `gladius-holder.blend` is the source file for the model. It was designed in [Blender](https://www.blender.org/) and then the  `gladius-holder.stl` was exported for 3D printing.
 
-TODO: Add photo
+<img src="./photo-1.jpg" width="50%" alt="Photo of holder" /><img src="./photo-2.jpg" width="50%" alt="Photo of holder with sword" />
